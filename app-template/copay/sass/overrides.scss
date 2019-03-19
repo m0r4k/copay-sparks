@@ -12,10 +12,10 @@ $v-text-secondary-color:                             #c2c9d1;
 $v-text-accent-color:                                #1abb9b;
 
 $v-success-color:                                    #1abb9b;
-$v-warning-color:                                    #bb331a;
+$v-warning-color:                                      darken(#ff5555,15%);
 
 /* Theme */ 
-$v-default-wallet-color-index:                       6;
+$v-default-wallet-color-index:                       15;
 $v-top-tabs-color:                                   $v-accent-color;
 $v-wallet-backup-phrase-color:                       $v-text-primary-color;
 $v-wallet-backup-select-phrase-color:                $v-secondary-color;

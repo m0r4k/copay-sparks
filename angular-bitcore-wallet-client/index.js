@@ -1,5 +1,5 @@
 var bwcModule = angular.module('bwcModule', []);
-var Client = require('../node_modules/@sparksevo/bitcore-wallet-client-sparks');
+var Client = require('../node_modules/bitcore-wallet-client-sparks');
 
 bwcModule.constant('MODULE_VERSION', '1.0.0');
 

@@ -17,7 +17,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.sparks.copay</string>
+	<string>io.sparkspay.copay</string>
 	<key>PROJECT_ID</key>
 	<string>sparks-ebce5</string>
 	<key>STORAGE_BUCKET</key>

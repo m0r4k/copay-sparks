@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "98274424957",
-    "firebase_url": "https://sparks-ebce5.firebaseio.com",
-    "project_id": "sparks-ebce5",
-    "storage_bucket": "sparks-ebce5.appspot.com"
+    "project_number": "149194066736",
+    "firebase_url": "https://bitpay-wallet.firebaseio.com",
+    "project_id": "sparks-copay",
+    "storage_bucket": "bitpay-wallet.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:98274424957:android:13e8540525765b33",
+        "mobilesdk_app_id": "1:149194066736:android:64dc8a200f13f9ee",
         "android_client_info": {
-          "package_name": "com.sparks.copay"
+          "package_name": "io.sparkspay.wallet"
         }
       },
       "oauth_client": [
         {
-          "client_id": "98274424957-39u44gsivkvfuaesv5tvb7vhrtbcomn5.apps.googleusercontent.com",
+          "client_id": "149194066736-1gf0d9nk288dke5jdiuj8unkplhl8nco.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBSuZBxImiElwZUuLZ8vitAccGJTcg2XB0"
+          "current_key": "AIzaSyCZ8nyjRBe-0Lyur0LjO-SOkjv32uNQKy0"
         }
       ],
       "services": {

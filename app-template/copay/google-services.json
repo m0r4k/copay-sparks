@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "98274424957",
+    "firebase_url": "https://sparks-ebce5.firebaseio.com",
+    "project_id": "sparks-ebce5",
+    "storage_bucket": "sparks-ebce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98274424957:android:13e8540525765b33",
+        "android_client_info": {
+          "package_name": "com.sparks.copay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98274424957-39u44gsivkvfuaesv5tvb7vhrtbcomn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSuZBxImiElwZUuLZ8vitAccGJTcg2XB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

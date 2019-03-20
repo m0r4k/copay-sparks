@@ -424,7 +424,8 @@ angular.module('copayApp.controllers').controller('walletDetailsController', fun
   $scope.$on("$ionicView.afterLeave", function(event, data) {
 
     if ($window.StatusBar) {
-      var statusBarColor = '#192c3a';
+      //var statusBarColor = '#192c3a';
+      var statusBarColor = appConfigService.name == 'copay' ? '#192c3a' : '#000000';
       $window.StatusBar.backgroundColorByHexString(statusBarColor);
     }
   });

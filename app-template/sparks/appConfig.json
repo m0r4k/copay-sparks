@@ -2,7 +2,7 @@
   "packageName": "sparks",
   "packageDescription": "Copay Sparks Wallet",
   "packageNameId": "info.sparkscoin.copay",
-  "statusBarColor": "#192c3a",
+  "statusBarColor": "#000000",
   "userVisibleName": "Sparks",
   "purposeLine": "Sparks Wallet",
   "bundleName": "copay",

@@ -440,7 +440,7 @@ msgstr "Comprar desde"
 
 #: src/js/services/onGoingProcess.js:40
 msgid "Buying Sparks..."
-msgstr "Comprando Sparkss..."
+msgstr "Comprando Sparks..."
 
 #: src/js/services/onGoingProcess.js:12
 msgid "Calculating fee"
@@ -2540,7 +2540,7 @@ msgstr "Certificado autofirmado"
 
 #: src/js/services/onGoingProcess.js:41
 msgid "Selling Sparks..."
-msgstr "Vendiendo Sparkss..."
+msgstr "Vendiendo Sparks..."
 
 #: www/views/feedback/send.html:13
 #: www/views/feedback/send.html:43
@@ -3095,7 +3095,7 @@ msgstr "Intenta de nuevo en {{expires}}"
 
 #: www/views/bitpayCardIntro.html:18
 msgid "Turn sparks into dollars, swipe anywhere Visa<sup>&reg;</sup> is accepted."
-msgstr "Convierta Sparkss en Dólares, use Visa<sup>&reg;</sup>."
+msgstr "Convierta Sparks en Dólares, use Visa<sup>&reg;</sup>."
 
 #: www/views/tab-import-phrase.html:17
 msgid "Type the Recovery Phrase (usually 12 words)"

@@ -425,7 +425,7 @@ angular.module('copayApp.controllers').controller('walletDetailsController', fun
 
     if ($window.StatusBar) {
       //var statusBarColor = '#192c3a';
-      var statusBarColor = appConfigService.name == 'copay' ? '#192c3a' : '#1e3186';
+      var statusBarColor = appConfigService.name == 'copay' ? '#192c3a' : '#192c3a';
       $window.StatusBar.backgroundColorByHexString(statusBarColor);
     }
   });

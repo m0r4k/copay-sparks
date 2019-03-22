@@ -230,7 +230,7 @@ msgstr "Ein Aktualisierung für diese App ist verfügbar. Zu Ihrer Sicherheit bi
 
 #: www/views/backupWarning.html:14
 msgid "Anyone with your backup phrase can access or spend your sparks."
-msgstr "Jeder mit Ihrer Wiederherstellungsphrase hat Zugriff auf ihre Sparkss und kann diese ausgeben."
+msgstr "Jeder mit Ihrer Wiederherstellungsphrase hat Zugriff auf ihre Sparks und kann diese ausgeben."
 
 #: www/views/addresses.html:94
 msgid "Approximate Sparks network fee to transfer wallet's balance (with normal priority)"
@@ -385,7 +385,7 @@ msgstr "Sparks ist eine Währung."
 
 #: www/views/onboarding/disclaimer.html:15
 msgid "Sparks is different &ndash; it cannot be safely held with a bank or web service."
-msgstr "Sparkss sind anders &ndash; sie können nicht sicher in einer Bank oder einem Onlinedienst aufbewahrt werden."
+msgstr "Sparks sind anders &ndash; sie können nicht sicher in einer Bank oder einem Onlinedienst aufbewahrt werden."
 
 #: www/views/onboarding/tour.html:18
 msgid "Sparks is secure,<br>digital money."
@@ -423,11 +423,11 @@ msgstr ""
 
 #: www/views/includes/buyAndSellCard.html:3
 msgid "Buy &amp; Sell Sparks"
-msgstr "Kaufe &amp; Verkaufe Sparkss"
+msgstr "Kaufe &amp; Verkaufe Sparks"
 
 #: www/views/tab-send.html:40
 msgid "Buy Sparks"
-msgstr "Kaufe Sparkss"
+msgstr "Kaufe Sparks"
 
 #: www/views/mercadoLibre.html:22
 #: www/views/mercadoLibre.html:50
@@ -440,7 +440,7 @@ msgstr ""
 
 #: src/js/services/onGoingProcess.js:40
 msgid "Buying Sparks..."
-msgstr "Kaufe Sparkss..."
+msgstr "Kaufe Sparks..."
 
 #: src/js/services/onGoingProcess.js:12
 msgid "Calculating fee"
@@ -1477,7 +1477,7 @@ msgstr "Ich verstehe"
 
 #: www/views/onboarding/disclaimer.html:21
 msgid "I understand that if this app is moved to another device or deleted, my sparks can only be recovered with the backup phrase."
-msgstr "Ich verstehe, dass wenn diese App auf ein anderes Gerät verschoben oder gelöscht wird, meine Sparkss nur mit der Wiederherstellungsphrase wiederhergestellt werden können."
+msgstr "Ich verstehe, dass wenn diese App auf ein anderes Gerät verschoben oder gelöscht wird, meine Sparks nur mit der Wiederherstellungsphrase wiederhergestellt werden können."
 
 #: www/views/onboarding/disclaimer.html:18
 msgid "I understand that my funds are held securely on this device, not by a company."
@@ -1635,7 +1635,7 @@ msgstr "Ist diese E-Mail Adresse korrekt?"
 
 #: www/views/addresses.html:25
 msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your sparkss secure against hypothetical attacks by quantum computers."
-msgstr "Es ist eine gute Idee Adressen nicht wiederzuverwenden - dies schützt Ihre Privatsphäre und hält Ihre Sparkss vor hypothetischen Angriffen durch Quanten-Computern sicher."
+msgstr "Es ist eine gute Idee Adressen nicht wiederzuverwenden - dies schützt Ihre Privatsphäre und hält Ihre Sparks vor hypothetischen Angriffen durch Quanten-Computern sicher."
 
 #: src/js/controllers/backup.js:76
 msgid "It's important that you write your backup phrase down correctly. If something happens to your wallet, you'll need this backup to recover your money. Please review your backup and try again."
@@ -1851,7 +1851,7 @@ msgstr ""
 
 #: www/views/onboarding/backupRequest.html:5
 msgid "No backup, no sparks."
-msgstr "Keine Sicherung, keine Sparkss."
+msgstr "Keine Sicherung, keine Sparks."
 
 #: www/views/addressbook.html:19
 msgid "No contacts yet"
@@ -1953,7 +1953,7 @@ msgstr ""
 
 #: www/views/modals/wallets.html:25
 msgid "Notice: only 1-1 (single signature) wallets can be used for sell sparks"
-msgstr "Hinweis: nur 1-1 (Einzelunterschrift) Wallets können verwendet werden um Sparkss zu verkaufen"
+msgstr "Hinweis: nur 1-1 (Einzelunterschrift) Wallets können verwendet werden um Sparks zu verkaufen"
 
 #: www/views/preferencesNotifications.html:3
 #: www/views/tab-settings.html:54
@@ -2093,7 +2093,7 @@ msgstr "Den Klartext der Sicherung einfügen"
 
 #: www/views/bitpayCardIntro.html:28
 msgid "Pay 0% fees to turn sparks into dollars."
-msgstr "Zahle 0 % Gebühren um Sparkss in Dollar zu wechseln."
+msgstr "Zahle 0 % Gebühren um Sparks in Dollar zu wechseln."
 
 #: www/views/modals/paypro.html:18
 msgid "Pay To"
@@ -2540,7 +2540,7 @@ msgstr "Selbstsigniertes Zertifikat"
 
 #: src/js/services/onGoingProcess.js:41
 msgid "Selling Sparks..."
-msgstr "Verkauf von Sparkss..."
+msgstr "Verkauf von Sparks..."
 
 #: www/views/feedback/send.html:13
 #: www/views/feedback/send.html:43
@@ -2766,7 +2766,7 @@ msgstr ""
 
 #: www/views/tab-send.html:33
 msgid "Start sending sparks"
-msgstr "Starte mit dem Senden der Sparkss"
+msgstr "Starte mit dem Senden der Sparks"
 
 #: www/views/lockSetup.html:3
 msgid "Startup Lock"
@@ -2804,7 +2804,7 @@ msgstr "DIESE AKTION KANN NICHT RÜCKGÄNGIG GEMACHT WERDEN"
 
 #: www/views/onboarding/welcome.html:5
 msgid "Take control of your money,<br>get started with sparks."
-msgstr "Übernehmen Sie die Kontrolle über Ihr Geld, <br>Legen Sie los mit Sparkss."
+msgstr "Übernehmen Sie die Kontrolle über Ihr Geld, <br>Legen Sie los mit Sparks."
 
 #: www/views/walletDetails.html:132
 #: www/views/walletDetails.html:52
@@ -2860,15 +2860,15 @@ msgstr "Die Chrome-Anwendung für Ledger ist nicht installiert"
 
 #: www/views/modals/wallet-balance.html:55
 msgid "The amount of sparks immediately spendable from this wallet."
-msgstr "Den Betrag an Sparkss sofort aus dieser Wallet zahlen."
+msgstr "Den Betrag an Sparks sofort aus dieser Wallet zahlen."
 
 #: www/views/modals/wallet-balance.html:93
 msgid "The amount of sparks stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
-msgstr "Der Betrag an Sparkss gespeichert in dieser Wallet ist zugewiesen als Einsatz für die ausstehende Transaktion. Dem Betrag wurde zugewiesen unverbrauchte Transaktions-Ausgänge zu verwenden, welche mit dieser Brieftasche verbunden sind, und entspricht möglicherweise mehr als die tatsächlichen Beträge welche im Zusammenhang mit Ihren ausstehenden Transaktions-Betrag stehen."
+msgstr "Der Betrag an Sparks gespeichert in dieser Wallet ist zugewiesen als Einsatz für die ausstehende Transaktion. Dem Betrag wurde zugewiesen unverbrauchte Transaktions-Ausgänge zu verwenden, welche mit dieser Brieftasche verbunden sind, und entspricht möglicherweise mehr als die tatsächlichen Beträge welche im Zusammenhang mit Ihren ausstehenden Transaktions-Betrag stehen."
 
 #: www/views/modals/wallet-balance.html:74
 msgid "The amount of sparks stored in this wallet with less than 1 blockchain confirmation."
-msgstr "Die Menge an Sparkss sind in dieser Geldbörse mit weniger als 1 Blockchain Bestätigung gespeichert."
+msgstr "Die Menge an Sparks sind in dieser Geldbörse mit weniger als 1 Blockchain Bestätigung gespeichert."
 
 #: www/views/tab-import-phrase.html:5
 msgid "The derivation path"
@@ -2923,7 +2923,7 @@ msgstr "Der Zahlungsvorschlag ist nicht ausstehend"
 
 #: www/views/modals/wallet-balance.html:36
 msgid "The total amount of sparks stored in this wallet."
-msgstr "Der Gesamtbetrag an Sparkss vorrätig in dieser Wallet."
+msgstr "Der Gesamtbetrag an Sparks vorrätig in dieser Wallet."
 
 #: www/views/preferencesHistory.html:27
 msgid "The transaction history and every new incoming transaction are cached in the app. This feature clean this up and synchronizes again from the server"
@@ -2954,7 +2954,7 @@ msgstr "Diese App ist fantastisch!"
 
 #: www/views/onboarding/tour.html:47
 msgid "This app stores your sparks with cutting-edge security."
-msgstr "Diese App speichert Ihre Sparkss mit modernster Sicherheit."
+msgstr "Diese App speichert Ihre Sparks mit modernster Sicherheit."
 
 #: src/js/controllers/confirm.js:523
 msgid "This sparks payment request has expired."
@@ -2999,11 +2999,11 @@ msgstr "An"
 
 #: www/views/tab-send.html:37
 msgid "To get started, buy sparks or share your address. You can receive sparks from any wallet or service."
-msgstr "Um loszulegen kaufe Sparkss oder teilen Sie ihre Adresse. Sie können Sparkss von jeder beliebigen Wallet oder von einem Dienstleister/Broker empfangen."
+msgstr "Um loszulegen kaufe Sparks oder teilen Sie ihre Adresse. Sie können Sparks von jeder beliebigen Wallet oder von einem Dienstleister/Broker empfangen."
 
 #: www/views/tab-send.html:38
 msgid "To get started, you'll need to create a sparks wallet and get some sparks."
-msgstr "Um loszulegen müssen Sie eine Sparks-Wallet erstellen und einige Sparkss erhalten."
+msgstr "Um loszulegen müssen Sie eine Sparks-Wallet erstellen und einige Sparks erhalten."
 
 #: src/js/services/bitpayAccountService.js:73
 msgid "To {{reason}} you must first add your Sparks Dev account - {{email}}"
@@ -3095,7 +3095,7 @@ msgstr "Versuchen Sie es erneut in {{expires}}"
 
 #: www/views/bitpayCardIntro.html:18
 msgid "Turn sparks into dollars, swipe anywhere Visa<sup>&reg;</sup> is accepted."
-msgstr "Wechseln Sie Sparkss in Dollar, wechseln Sie überall wo Visa<sup>&reg;</sup> akzeptiert wird."
+msgstr "Wechseln Sie Sparks in Dollar, wechseln Sie überall wo Visa<sup>&reg;</sup> akzeptiert wird."
 
 #: www/views/tab-import-phrase.html:17
 msgid "Type the Recovery Phrase (usually 12 words)"
@@ -3466,7 +3466,7 @@ msgstr "Sie können auf GitHub die neuesten Entwicklungen ansehen und zu dieser 
 
 #: www/views/onboarding/tour.html:19
 msgid "You can spend sparks at millions of websites and stores worldwide."
-msgstr "Sie können Sparkss auf Millionen von Webseiten und Shops weltweit ausgeben."
+msgstr "Sie können Sparks auf Millionen von Webseiten und Shops weltweit ausgeben."
 
 #: www/views/backup.html:15
 msgid "You can still export it from Advanced &gt; Export."
@@ -3478,7 +3478,7 @@ msgstr "Sie können auch mit andere Währungen wie US-Dollar, Euro oder Pfund ha
 
 #: www/views/onboarding/tour.html:46
 msgid "You control your sparks."
-msgstr "Sie kontrollieren Ihre Sparkss."
+msgstr "Sie kontrollieren Ihre Sparks."
 
 #: www/views/modals/chooseFeeLevel.html:64
 msgid "You should not set a fee higher than {{maxFeeRecommended}} satoshis/byte."
